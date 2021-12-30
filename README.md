@@ -1,3 +1,3 @@
 # APIS_Zadanie
-Zadanie - M.Smolko, S.Leščák, R.Kmec
+Zadanie - S.Leščák, R.Kmec, M.Smolko
 DB => REST-API => FRONT-END
