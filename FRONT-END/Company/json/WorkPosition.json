@@ -1,0 +1,26 @@
+[
+    {
+        "WorkPositionName":"Maid",
+        "SalaryMin":500,
+        "SalaryMax":700,
+        "ActivityCosts":100,
+        "BonusSalary":100,
+        "PenalizationSalary":30
+    },
+    {
+        "WorkPositionName":"Secretary",
+        "SalaryMin":700,
+        "SalaryMax":900,
+        "ActivityCosts":50,
+        "BonusSalary":150,
+        "PenalizationSalary":20
+    },
+    {
+        "WorkPositionName":"Worker",
+        "SalaryMin":900,
+        "SalaryMax":1100,
+        "ActivityCosts":150,
+        "BonusSalary":200,
+        "PenalizationSalary":40
+    }
+]
